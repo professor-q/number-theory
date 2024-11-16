@@ -1,1 +1,1 @@
-***number theory for competitive programming***
+***Number Theory for competitive programming***
